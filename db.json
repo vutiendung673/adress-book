@@ -1,0 +1,40 @@
+{
+  "contacts": [
+    {
+      "id": "1",
+      "fullName": "Nguyễn Văn An",
+      "phone": "0901234567",
+      "email": "an.nguyen@gmail.com",
+      "address": "123 Nguyễn Trãi, Quận 1, TP.HCM",
+      "group": "Gia đình",
+      "notes": "Anh trai, sinh nhật 12/03"
+    },
+    {
+      "id": "2",
+      "fullName": "Trần Thị Bích",
+      "phone": "0912345678",
+      "email": "bich.tran@outlook.com",
+      "address": "45 Lê Lợi, Hải Châu, Đà Nẵng",
+      "group": "Bạn bè",
+      "notes": "Bạn đại học, học chung lớp FER202"
+    },
+    {
+      "id": "3",
+      "fullName": "Lê Minh Cường",
+      "phone": "0987654321",
+      "email": "cuong.le@fpt.edu.vn",
+      "address": "Khu CNC Hòa Lạc, Thạch Thất, Hà Nội",
+      "group": "Công việc",
+      "notes": "Giảng viên hướng dẫn đồ án"
+    },
+    {
+      "id": "4",
+      "fullName": "Phạm Thu Hà",
+      "phone": "0933112233",
+      "email": "ha.pham@gmail.com",
+      "address": "78 Trần Phú, TP. Hải Dương",
+      "group": "Gia đình",
+      "notes": "Chị họ"
+    }
+  ]
+}
